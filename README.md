@@ -16,4 +16,8 @@
 ## Camera Localization (6DoF)
 - Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments. 2021 CVPR
 - Back to the Feature: Learning Robust Camera Localization from Pixels to Pose. 2021 CVPR
+- DeepI2P: Image-to-Point Cloud Registration via Deep Classification. 2021 CVPR
+- P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching. 2021 ICCV
+- Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences. 2020. IROS
 - 2D3D-MatchNet: Learning to Match Keypoints Across 2D Image and 3D Point Cloud. 2019 ICRA.
+- Robust upright adjustment of 360 spherical panoramas. 2017. CVPR
