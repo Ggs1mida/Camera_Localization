@@ -14,6 +14,7 @@
 - Geo-Localization of Street Views with Aerial Image Databases. 2011 MM. (facade matching)
 
 ## Camera Localization (6DoF)
+- DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors. CVPR 2021.
 - Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments. 2021 CVPR
 - Back to the Feature: Learning Robust Camera Localization from Pixels to Pose. 2021 CVPR
 - DeepI2P: Image-to-Point Cloud Registration via Deep Classification. 2021 CVPR
